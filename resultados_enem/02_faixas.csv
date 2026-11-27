@@ -1,0 +1,6 @@
+"faixa","minimo","maximo","Q006"
+"Até 1 SM",0,1320,"A–B"
+"Mais de 1 a 2 SM",1320.01,2640,"C–D"
+"Mais de 2 a 4 SM",2640.01,5280,"E–G"
+"Mais de 4 a 8 SM",5280.01,10560,"H–K"
+"Acima de 8 SM",10560.01,NA,"L–Q"
