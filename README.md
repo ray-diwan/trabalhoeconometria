@@ -4,7 +4,7 @@ REPRODUÇÃO DO TRABALHO ENEM 2023
 O pacote inclui o script em R, a base com os 1.045.050 participantes
 elegíveis, as tabelas e os três gráficos do relatório.
 
-1. Extraia o ZIP e abra o script no RStudio. Defina a pasta extraída
+1. Abra o script no RStudio. Defina a pasta extraída
    como diretório de trabalho (Session > Set Working Directory >
    To Source File Location).
 
